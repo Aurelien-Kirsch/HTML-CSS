@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(243, 219, 4);
+  }
+.a-great-style{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 21px;
+}
+.a-great-style2{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 27px;
+}
+.red-italic {
+    font-style: italic;
+    color: rgb(195, 0, 39);
+  }
